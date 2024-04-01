@@ -10,6 +10,7 @@ public class SubClassInP1Package extends Protection{
 		System.out.println("protected_c :"+protected_c);
 		System.out.println("public_d :"+public_d);
 		System.out.println("+++++++++++++");
+	
 	}
 
 }
